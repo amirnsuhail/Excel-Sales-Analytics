@@ -2,9 +2,9 @@
 
 - **Project objective:** 
 
-    **1.** Create a _https://github.com/amirnsuhail/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf_
+    **1.** Create a _[customer performance report](https://github.com/amirnsuhail/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)_
   
-    **2.** Conduct a comprehensive comparison between market performance and target _https://github.com/amirnsuhail/Excel-Sales-Analytics/blob/main/market%20performance%20vs%20target%20report.pdf_
+    **2.** Conduct a comprehensive comparison between _[market performance and target](https://github.com/amirnsuhail/Excel-Sales-Analytics/blob/main/market%20performance%20vs%20target%20report.pdf)_
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
@@ -17,11 +17,11 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _https://github.com/amirnsuhail/Excel-Sales-Analytics/blob/main/P%20%26%20L%20by%20fiscal%20month.pdf_
+    **1.** Create Profit and Loss (P&L) reports by _[fiscal months](https://github.com/amirnsuhail/Excel-Sales-Analytics/blob/main/P%20%26%20L%20by%20fiscal%20month.pdf)_
 
-   **2.** Create Profit and Loss (P&L) reports by _https://github.com/amirnsuhail/Excel-Sales-Analytics/blob/main/P%20%26%20L%20for%20market%20report.pdf_
+   **2.** Create Profit and Loss (P&L) reports by _[market](https://github.com/amirnsuhail/Excel-Sales-Analytics/blob/main/P%20%26%20L%20for%20market%20report.pdf)_
   
-   **3.** Create Profit and Loss (P&L) reports by_https://github.com/amirnsuhail/Excel-Sales-Analytics/blob/main/P%26%20L%20for%20Fiscal%20Year.pdf_
+   **3.** Create Profit and Loss (P&L) reports by_[fiscal year](https://github.com/amirnsuhail/Excel-Sales-Analytics/blob/main/P%26%20L%20for%20Fiscal%20Year.pdf)_
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
